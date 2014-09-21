@@ -7,7 +7,11 @@ Credit Scorecard Application
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
-Lenders and Customers can use the online application to know their credit score in Bank ABC. Lenders in Bank ABC used to know whether a customer is likely to default on their loan. Customers in Bank ABC used it to find out whether their loan application will be approved.
+Lenders and Customers can use the online application to
+know their credit score in Bank ABC. Lenders in Bank ABC
+used to know whether a customer is likely to default on
+their loan. Customers in Bank ABC used it to find out
+whether their loan application will be approved.
 }
 \usage{
 Bank ABC Credit Scorecard Application(x) will require
@@ -21,5 +25,7 @@ decision on loan application.
 }
 \value{
 %%  ~Describe the value returned
-Enter the customers Late Amount payment, and Balance in the customers Account, then customers Credit scores in Bank ABC will be returned
+Enter the customers Late Amount payment, and Balance in the
+customers Account, then customers Credit scores in Bank ABC
+will be returned
 }
